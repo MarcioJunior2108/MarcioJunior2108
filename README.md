@@ -4,22 +4,8 @@
 
 Me chamo Márcio Oliveira Santana Júnior, tenho 24 anos e sou natural da Bahia. Concluí o ensino médio. Atualmente, estou cursando a Faculdade de Ciencia da Computação na UNINTER. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
-<p align="left">
-    <a href="https://www.youtube.com/@?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://github.com/MarcioJunior2108">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
+
+
 
 ---
 
@@ -142,15 +128,6 @@ Me chamo Márcio Oliveira Santana Júnior, tenho 24 anos e sou natural da Bahia.
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
