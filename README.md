@@ -2,7 +2,8 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Márcio Oliveira Santana Júnior, tenho 24 anos e sou natural da Bahia. Concluí o ensino médio. Atualmente, estou cursando a Faculdade de Ciencia da Computação na UNINTER. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Márcio Oliveira Santana Júnior 👨‍💻, tenho 24 anos 🎂 e sou natural da Bahia 🌴. Concluí o ensino médio 🎓 e atualmente curso Ciência da Computação na UNINTER 💻. Sou apaixonado por tecnologia 🚀, adoro resolver problemas com código 🔧 e estou sempre aprendendo algo novo 📚. Compartilho um pouco da minha rotina como dev no Instagram @markfils_ 📲.
+
 
 
 
