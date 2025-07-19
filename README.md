@@ -40,9 +40,9 @@ Atualmente, compartilho minha jornada de aprendizado, projetos e rotina como dev
 
 ## 📫 Contato
 
-- 📧 Email: [seu-email-aqui@example.com]
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) *(adicione se tiver)*
-- 📷 Instagram Dev: [@markfils_](https://instagram.com/markfils_)
+- 📧 Email: marciojunior.prowork@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/m%C3%A1rcio-junior-a97a99343/
+- 📷 Instagram Dev: @markfils_](https://instagram.com/markfils_
 
 ---
 
