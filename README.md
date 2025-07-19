@@ -42,7 +42,7 @@ Atualmente, compartilho minha jornada de aprendizado, projetos e rotina como dev
 
 - 📧 Email: marciojunior.prowork@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/m%C3%A1rcio-junior-a97a99343/
-- 📷 Instagram Dev: @markfils_](https://instagram.com/markfils_
+- 📷 Instagram Dev: @markfils_]([https://instagram.com/markfils_](https://www.instagram.com/markfils_/)
 
 ---
 
