@@ -7,12 +7,14 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioJunior2108&layout=compact&theme=dracula" />
 </div>
 
+---
+
 ## 🚀 Sobre mim
 - 🎓 **Ciência da Computação (em formação)**
 - 💻 **Full-Stack (JavaScript | React | Node.js | Supabase)**
 - 🖥️ Conhecimento também em **C**
-- 🗺️ Catu/BA – Brasil
-- 🎯 Foco atual: apps com **React/React Native**, **APIs Node/Express**, **Auth/DB com Supabase**
+- 📍 Catu - Bahia, Brasil
+- 🎯 Foco atual: **React/React Native**, **APIs Node/Express** e **Auth/DB com Supabase**
 
 ---
 
@@ -46,13 +48,13 @@
   </a>
 </div>
 
+---
+
+## 🐍 Animação das Contribuições
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation"
-         src="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/snake.svg" />
   </picture>
 </p>
