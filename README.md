@@ -53,7 +53,7 @@
 ## 🐍 Animação das Contribuições
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/snake.svg" />
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/snake.svg" />
   </picture>
