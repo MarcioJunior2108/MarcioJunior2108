@@ -1,59 +1,58 @@
-<h1 align="center">👨🏻‍💻 Márcio Júnior</h1>
+# Olá! Sou o Márcio Oliveira 👋
 
-<p align="center">
-  <b>Desenvolvedor Full Stack | Estudante de Ciência da Computação | Apaixonado por resolver problemas com código 🚀</b>
-</p>
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <img alt="GitHub Stats" height="180"
+       src="https://github-readme-stats.vercel.app/api?username=marcioJunior2108&show_icons=true&theme=dracula" />
+  <img alt="Top Languages" height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioJunior2108&layout=compact&theme=dracula" />
+</div>
 
-<p align="center">
-  Olá! Me chamo <b>Márcio Oliveira Santana Júnior</b>, tenho <b>24 anos</b>, sou natural da <b>Bahia 🌴</b> e estou cursando <b>Ciência da Computação na UNINTER</b>. Minha paixão por tecnologia vai além da tela — adoro criar soluções, automatizar tarefas e aprender continuamente 📚.
-</p>
-
-<p align="center">
-  Atualmente compartilho minha jornada de aprendizado, projetos e rotina como dev no <a href="https://www.instagram.com/markfils_">@markfils_</a> 📲
-</p>
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<p align="center">
-  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/>
-  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/>
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/>
-  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"/>
-  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"/>
-  <img title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30px"/>
-  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30px"/>
-  <img title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px"/>
-  <img title="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30px"/>
-  <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30px"/>
-  <img title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="30px"/>
-  <img title="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="30px"/>
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"/>
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"/>
-</p>
+## 🚀 Sobre mim
+- 🎓 **Ciência da Computação (em formação)**
+- 💻 **Full-Stack (JavaScript | React | Node.js | Supabase)**
+- 🖥️ Conhecimento também em **C**
+- 🗺️ Catu/BA – Brasil
+- 🎯 Foco atual: apps com **React/React Native**, **APIs Node/Express**, **Auth/DB com Supabase**
 
 ---
 
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioJunior2108&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioJunior2108&layout=compact&theme=tokyonight&langs_count=10&custom_title=Linguagens%20mais%20usadas"/>
-</p>
-
----
-
-## 📫 Contato
-
-<p align="center">
-  📧 <b>Email:</b> marciojunior.prowork@gmail.com<br/>
-  💼 <a href="https://www.linkedin.com/in/m%C3%A1rcio-junior-a97a99343">LinkedIn</a><br/>
-  📷 <a href="https://www.instagram.com/markfils_">Instagram Dev</a>
-</p>
+## 🛠️ Tecnologias que uso
+<div style="display:flex;justify-content:center;gap:15px;flex-wrap:wrap;margin:10px 0 20px;">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+  <img alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" />
+  <img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" />
+  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+</div>
 
 ---
 
+## 🌐 Onde me encontrar
+<div style="display:flex;justify-content:center;gap:10px;margin-bottom:40px;">
+  <a href="mailto:marciojunior.prowork@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/marcioJunior2108" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcio-oliveira/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 <p align="center">
-  🧠 <i>"A tecnologia move o mundo, e o código é a chave."</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation"
+         src="https://raw.githubusercontent.com/marcioJunior2108/marcioJunior2108/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
