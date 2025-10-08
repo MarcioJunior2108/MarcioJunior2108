@@ -1,4 +1,5 @@
 # Olá! Sou o Márcio Oliveira 👋
+### 💻 Cientista da Computação em formação | Desenvolvedor Full-Stack (JS | React | Node.js | Supabase)
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <img alt="GitHub Stats" height="180"
